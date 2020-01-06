@@ -1,0 +1,17 @@
+https://www.viget.com/articles/building-a-multi-step-registration-form-with-react/
+https://www.nestaway.com/welcome/owner/listing/started
+https://maps.googleapis.com/maps/api/place/js/AutocompletionService.GetPredictions?1sChennai%2C%20Tamil%20Nadu%2C%20India&4sen&5sIN&9s(regions)&15e3&20s21FF817F-62A3-4B7D-A889-AEA77239B55B6wwm0kwqwiv&21m1&2e1&callback=_xdc_._p3nu54&key=AIzaSyAytC_TusuhG7kpNQ19hMrCzXDIUjd307o&token=68378
+
+
+https://jsonplaceholder.typicode.com/
+https://my-json-server.typicode.com
+
+
+https://github.com/Md-Hiccup/learnJS/tree/master/expressReact
+Express in react
+Step 1: npm install -g express-generator
+Step 2: express --view=ejs express-react
+Step 3: cd express-react && npm install
+Step 4: Change port
+Step 5: Change express-react package.json start to "start": "concurrently \"node ./bin/www\" \"cd .. && npm start\""
+Step 6: npm i -D concurrently => cd express-react folder
